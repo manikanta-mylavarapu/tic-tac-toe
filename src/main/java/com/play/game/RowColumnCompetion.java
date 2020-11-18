@@ -1,3 +1,4 @@
+package com.play.game;
 
 public class RowColumnCompetion {
 	public static boolean isWinner()

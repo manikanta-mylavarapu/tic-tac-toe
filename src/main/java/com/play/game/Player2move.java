@@ -1,13 +1,17 @@
+package com.play.game;
+
 import java.util.Scanner;
 
-public class Player1move {
+public class Player2move {
 
-	public static int player1move()
+	public static int player2move()
 	{
 		System.out.println("Please enter the location");
 		Scanner scan = new Scanner(System.in);
-		int m1 = scan.nextInt();
-		return m1;
+		int m2 = scan.nextInt();
+		return m2;
 	}
 	
 }
+
+

@@ -1,3 +1,5 @@
+package com.play.game;
+
 import java.util.Scanner;
 
 public class Player1Letter {
